@@ -3,8 +3,6 @@
 <script>
     let uname_localstorage=localStorage.getItem("username");
 
-
-
 </script>
 <?php
 
