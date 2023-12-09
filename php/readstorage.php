@@ -7,7 +7,7 @@
     let age=localStorage.getItem("age");
     let dob=localStorage.getItem("dob");
     let contact=localStorage.getItem("contact")
-
+        
     function clear()
     {
         if(confirm("Are you interested to clear all session variable from localStorage"))
