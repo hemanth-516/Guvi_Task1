@@ -4,8 +4,6 @@
  
 function check($n)
  {
-    
-
 
   $servername = "localhost";
   $usname = "root";
