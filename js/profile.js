@@ -11,7 +11,6 @@ $(document).ready( function()
                  },
                 dob: {
                     required: true,
-                   
                 },
                 contact: {
                     required: true,
